@@ -79,3 +79,4 @@ Notes and usage details for tryxinyminutes.
 - clarify the setup steps
 - link the usage section
 - fix a small wording issue
+- fix a small wording issue
